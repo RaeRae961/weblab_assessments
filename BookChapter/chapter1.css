@@ -1,0 +1,23 @@
+.main_body {
+    text-align: justify;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1em;
+    height: 450px;
+    overflow: hidden;
+    width: 600px;
+    overflow-y: scroll;
+    margin: 0 auto;
+
+}
+.content_table {
+        margin-left: 200px;
+    }
+h1 {
+    text-align: center;
+
+}
+li {
+    list-style-type: upper-roman;
+    font-size: 18px;
+}

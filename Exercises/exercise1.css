@@ -1,0 +1,41 @@
+
+    h1 {
+        text-align: center;
+        text-color: blue;
+        border-bottom: 2px groove white;
+        font-family: Arial;
+
+    }
+    .class1 {
+    font-style: italic;
+        font-family: arial;
+    }
+
+
+    }
+    #p2 {
+        font-style: italic;
+
+    }
+    #p3 {
+        font-style: italic;
+
+    }
+    #p4 {
+        font-weight: bold;
+
+    }
+    #p5 {
+        font-size: 12px;
+    }
+
+    {
+    border-bottom: 2px, groove white;
+
+    }
+    {
+    border-bottom: 1px solid lightgray;
+    border-bottom: color #999;
+
+}
+
