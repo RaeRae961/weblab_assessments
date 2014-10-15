@@ -8,10 +8,11 @@
         background-color: lightblue;
         margin: 75px;
         margin-color: white;
-
+        border: solid 5px;
+        height: 1500px;
+        padding-left:   20px;
 
        }
-
 
    .entry   {
        display:   block;
@@ -23,15 +24,21 @@
        overflow: auto;
        */
        color: darkblue;
-
-
-
+       text-align: center;
 
    }
 
     img {
         border-radius: 10px;
+
     }
+
+    p   {
+        padding:    8px;
+        text-align: justify;
+    }
+
+
 
 
 
